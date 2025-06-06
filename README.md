@@ -140,15 +140,15 @@ Apple’s journey towards carbon neutrality by 2030 sets a precedent for integra
 
 ## Works Cited
 
-- Antonia. “Apple Environmental Report 2022: How Close Is Apple to Net Zero?” Compare and Recycle, March 29, 2022. [Link Placeholder]
+- Antonia. “Apple Environmental Report 2022: How Close Is Apple to Net Zero?” Compare and Recycle, March 29, 2022.
 - Apple Inc. "Apple Environmental Progress Report 2023." Apple, 2023.
 - Apple Inc. "Apple Vision Pro Product Environmental Report." Apple, February 2024.
 - Apple Inc. "Apple's Carbon Removal Strategy White Paper." Apple, 2023.
 - Apple Inc. "Apple's Paper and Packaging Strategy." Apple, October 2017.
 - Apple Inc. "iPhone 14 Product Environmental Report." Apple, September 2022.
 - Apple Inc. "Supply Chain 2023 Progress Report." Apple, 2023.
-- Apple. "Apple will use 100 percent recycled cobalt in batteries by 2025." Apple Newsroom, April 12, 2023. [Link Placeholder]
-- “Apple Commits to Be 100 Percent Carbon Neutral for Its Supply Chain and Products by 2030.” Apple Newsroom, February 19, 2024. [Link Placeholder]
-- Bernoville, Tara. “What Are Scopes 1, 2 and 3 of Carbon Emissions?” Plana.earth, June 12, 2022. [Link Placeholder]
-- Bloomberg. "Apple iPhone 15’s Carbon Footprint Shrunk, But It Could Be Even More Sustainable." Bloomberg, November 7, 2023. [Link Placeholder]
+- Apple. "Apple will use 100 percent recycled cobalt in batteries by 2025." Apple Newsroom, April 12, 2023.
+- “Apple Commits to Be 100 Percent Carbon Neutral for Its Supply Chain and Products by 2030.” Apple Newsroom, February 19, 2024.
+- Bernoville, Tara. “What Are Scopes 1, 2 and 3 of Carbon Emissions?” Plana.earth, June 12, 2022. 
+- Bloomberg. "Apple iPhone 15’s Carbon Footprint Shrunk, But It Could Be Even More Sustainable." Bloomberg, November 7, 2023. 
 - Earth.org. "The Environmental Impact of Lithium
